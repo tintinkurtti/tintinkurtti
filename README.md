@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tintin</h1>
 <h3 align="center">I come from Sweden and study my last year in computer science at Mittuniversitetet in Sundsvall!</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **tintinkurtti@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
